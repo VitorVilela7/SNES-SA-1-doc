@@ -5,12 +5,21 @@
  \___ \ / /\ \______| | | |  | |/ _ \ / __|
  ____) / ____ \     | | | |__| | (_) | (__ 
 |_____/_/    \_\    |_| |_____/ \___/ \___|
-     Version 0.10        by Vitor Vilela
+     Version 0.11        by Vitor Vilela
 ```
 
 *This is a work in progress document.*
 
-Date: 2019-04-15 (April 15, 2019)
+Date: 2019-04-19 (April 19, 2019)
+
+Presentation
+============
+
+This document is a result from many years researchment and testing. I'm continously updating this document with more information and experiments. The information here is accurate but may be subject to revision.
+
+There is not much information available on how the SA-1 chip works, other than the official Nintendo docs which does not very explain much the chip in details but rather focuses on the functionalities and features available. Therefore there is not much information available over undefined behavior or design details. This document attempts in covering it.
+
+If you find any potential issue and/or have any question about this document, feel free to contact me or contribute though GitHub at https://github.com/VitorVilela7/SNES-SA-1-doc/
 
 Memory Map
 ==========
